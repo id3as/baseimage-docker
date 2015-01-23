@@ -1,5 +1,5 @@
-NAME = id3as/phusion-baseimage
-VERSION = 0.9.16
+NAME = id3as-baseimage
+VERSION = 0.0.1
 
 .PHONY: all build test tag_latest release ssh
 
